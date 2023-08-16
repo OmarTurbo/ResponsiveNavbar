@@ -37,7 +37,7 @@ header .logo {
     align-items: center;
 }
 
-header .logo .fa-home {
+header .logo i {
     color: var(--main-color);
     font-size: 1.5rem;
 }
@@ -122,7 +122,6 @@ header .main #menu-icon {
         justify-content: flex-start;
         align-items: start;
         border-radius: 10px;
-        /* opacity: 0; */
     }
 
     header .nav-list a {
